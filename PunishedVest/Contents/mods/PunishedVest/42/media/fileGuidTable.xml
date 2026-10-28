@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/PunishedVest_Open.xml</path>
+		<guid>568eb56d-2fd5-5c6c-a964-dc975445f2a0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/PunishedVest_Closed.xml</path>
+		<guid>616f2e3c-e88e-5958-b977-b4d2ba15204b</guid>
+	</files>
+</fileGuidTable>

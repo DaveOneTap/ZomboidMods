@@ -1,0 +1,9 @@
+{
+    "Sandbox_KentuckyFighter": "Kentucky Fighter",
+    "Sandbox_KentuckyFighter_WhiteFighterChance": "White Fighter zombies (%)",
+    "Sandbox_KentuckyFighter_WhiteFighterChance_tooltip": "Chance, in percent, of each zombie or zombie corpse in the world spawning dressed as White Fighter (classic karateka: sleeveless white kimono with a black belt, white judo pants and a red headband). 0 = never; 1 = 1 in every 100 zombies; 0.1 = 1 in every 1000.",
+    "Sandbox_KentuckyFighter_RedFighterChance": "Red Fighter zombies (%)",
+    "Sandbox_KentuckyFighter_RedFighterChance_tooltip": "Chance, in percent, of each zombie or zombie corpse in the world spawning dressed as Red Fighter (classic karateka: sleeveless red kimono with a black belt and red judo pants). 0 = never; 1 = 1 in every 100 zombies; 0.1 = 1 in every 1000.",
+    "Sandbox_KentuckyFighter_RedCommanderChance": "Red Commander zombies (%)",
+    "Sandbox_KentuckyFighter_RedCommanderChance_tooltip": "Chance, in percent, of each zombie or zombie corpse in the world spawning dressed as Red Commander (imposing commander: red officer cap, red military tunic with shoulder armor, wine-red breeches and knee-high armored boots). 0 = never; 1 = 1 in every 100 zombies; 0.1 = 1 in every 1000."
+}

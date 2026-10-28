@@ -1,0 +1,21 @@
+module Base
+{
+    item Vest_WulfManVest
+    {
+        DisplayCategory = ProtectiveGear,
+        ItemType = base:clothing,
+        Weight = 3.5,
+        Icon = WulfManVest,
+        BloodLocation = ShirtNoSleeves,
+        BodyLocation = base:torsoextravestbullet,
+        CanHaveHoles = false,
+        ClothingItem = Vest_WulfManVest,
+        BiteDefense = 50,
+        ScratchDefense = 70,
+        BulletDefense = 40,
+        Insulation = 0.5,
+        WindResistance = 0.45,
+        WaterResistance = 0.3,
+        BreakSound = ArmourBreakKevlar,
+    }
+}

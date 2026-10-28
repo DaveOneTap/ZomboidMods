@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/Trousers_WhiteFighterJudoPants.xml</path>
+		<guid>fe70d068-34d5-50cd-8a08-b96cf4b07c8d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_WhiteFighterKimono.xml</path>
+		<guid>1803ec21-ca50-506d-8fb8-70019c3269a0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_WhiteFighterHeadband.xml</path>
+		<guid>9b6aea87-f925-5d9c-9486-506dbdc9b8ba</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Trousers_RedFighterJudoPants.xml</path>
+		<guid>37cdeb10-8a04-52e8-ba31-3050f0e03ff8</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_RedFighterKimono.xml</path>
+		<guid>11c6b4b7-734d-5dda-afe8-f9ee2317b9bf</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_RedCommanderCap.xml</path>
+		<guid>618b09ad-93fe-54c6-a678-4deb949a0c98</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Trousers_RedCommanderPants.xml</path>
+		<guid>d1ab9aef-a6ef-52af-ac70-0fc20f2255ad</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_RedCommanderBoots.xml</path>
+		<guid>c82a3eb3-4b93-55dd-a8f5-725490aee958</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_RedCommanderJacket.xml</path>
+		<guid>cf581882-34ec-52f6-ba06-0704850880bd</guid>
+	</files>
+</fileGuidTable>

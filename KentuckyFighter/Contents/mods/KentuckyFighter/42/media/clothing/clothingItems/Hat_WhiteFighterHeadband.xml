@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>Static\Clothes\M_WhiteFighterHeadband</m_MaleModel>
+	<m_FemaleModel>Static\Clothes\F_WhiteFighterHeadband</m_FemaleModel>
+	<m_GUID>9b6aea87-f925-5d9c-9486-506dbdc9b8ba</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>Clothes\WhiteFighter\WhiteFighterHeadband</textureChoices>
+</clothingItem>

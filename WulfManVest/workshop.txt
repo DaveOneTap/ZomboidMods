@@ -1,0 +1,8 @@
+version=1
+id=3826361298
+title=WulfMan Vest
+description=[h1]WulfMan Vest[/h1]
+description=
+description=Bulletproof, not idiotproof
+tags=Build 42;Clothing/Armor
+visibility=public

@@ -1,0 +1,78 @@
+module Base
+{
+    item Hat_RedCommanderCap
+    {
+        DisplayCategory = Accessory,
+        ItemType = base:clothing,
+        Weight = 0.3,
+        Icon = RedCommanderCap,
+        BloodLocation = Head,
+        BodyLocation = base:hat,
+        CanHaveHoles = false,
+        ChanceToFall = 40,
+        ClothingItem = Hat_RedCommanderCap,
+        Insulation = 0.15,
+        WindResistance = 0.1,
+        Tags = base:isfirefuel;base:isfiretinder,
+    }
+
+    item Trousers_RedCommanderPants
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Icon = RedCommanderPants,
+        BloodLocation = Trousers,
+        BodyLocation = base:pants,
+        ClothingItem = Trousers_RedCommanderPants,
+        FabricType = Cotton,
+        Insulation = 0.4,
+        ScratchDefense = 10,
+        WindResistance = 0.2,
+        WorldStaticModel = Trousers_Ground,
+        Tags = base:ripclothingcotton,
+    }
+
+    item Shoes_RedCommanderBoots
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 1.5,
+        Icon = RedCommanderBoots,
+        BloodLocation = Shoes,
+        BodyLocation = base:shoes,
+        BreakSound = ZombieRipClothing,
+        ClothingItem = Shoes_RedCommanderBoots,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        ConditionLowerChanceOneIn = 20,
+        ConditionMax = 30,
+        Insulation = 1.0,
+        RemoveOnBroken = false,
+        RunSpeedModifier = 0.9,
+        StompPower = 2.5,
+        WaterResistance = 0.8,
+        WindResistance = 1.0,
+    }
+
+    item Jacket_RedCommanderJacket
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 2.5,
+        Icon = RedCommanderJacket,
+        BiteDefense = 35,
+        BloodLocation = Jacket,
+        BodyLocation = base:jacket,
+        ClothingItem = Jacket_RedCommanderJacket,
+        CombatSpeedModifier = 0.97,
+        FabricType = Cotton,
+        Insulation = 0.5,
+        NeckProtectionModifier = 0.5,
+        RunSpeedModifier = 0.94,
+        ScratchDefense = 55,
+        WaterResistance = 0.45,
+        WindResistance = 0.35,
+        WorldStaticModel = Jacket_Ground,
+        Tags = base:ripclothingcotton,
+    }
+}

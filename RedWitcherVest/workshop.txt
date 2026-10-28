@@ -1,0 +1,6 @@
+version=1
+id=3828558820
+title=Red Witcher Vest
+description=[h1]Red Witcher Vest[/h1]
+tags=Build 42;Clothing/Armor
+visibility=unlisted

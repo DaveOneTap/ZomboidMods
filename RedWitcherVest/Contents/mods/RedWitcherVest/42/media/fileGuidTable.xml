@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/Shirt_RedWitcherCorset.xml</path>
+		<guid>05234929-aaec-5e9f-9715-73e5b104c344</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/RedWitcherCoat.xml</path>
+		<guid>ddfc800f-48ed-5cb3-9043-5ec6349a049d</guid>
+	</files>
+</fileGuidTable>

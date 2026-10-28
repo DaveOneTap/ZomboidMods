@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_WulfManVest.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_WulfManVest.x</m_FemaleModel>
+	<m_GUID>250cd44e-16fa-5962-951c-6986ac0601ac</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>12</m_Masks>
+	<m_Masks>13</m_Masks>
+	<m_MasksFolder>none</m_MasksFolder>
+	<m_UnderlayMasksFolder>media/textures/Clothes/BulletVest/Masks_BulletVest</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\WulfManVest\WulfManVest</textureChoices>
+</clothingItem>

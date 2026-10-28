@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_RedFighterJudoPants.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_RedFighterJudoPants.x</m_FemaleModel>
+	<m_GUID>37cdeb10-8a04-52e8-ba31-3050f0e03ff8</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>14</m_Masks>
+	<m_Masks>15</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>Clothes\RedFighter\RedFighterJudoPants</textureChoices>
+</clothingItem>

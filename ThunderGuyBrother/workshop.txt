@@ -1,0 +1,6 @@
+version=1
+id=3826583750
+title=ThunderGuy Brother
+description=[h1]ThunderGuy Brother[/h1]
+tags=Build 42;Clothing/Armor
+visibility=unlisted

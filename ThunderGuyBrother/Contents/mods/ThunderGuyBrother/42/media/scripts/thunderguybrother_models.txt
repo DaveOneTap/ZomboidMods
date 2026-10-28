@@ -1,0 +1,18 @@
+module Base
+{
+    model ThunderGuyBrotherSceptre
+    {
+        mesh = weapons/2handed/ThunderGuyBrotherSceptre,
+        texture = weapons/2handed/ThunderGuyBrotherSceptre,
+        attachment world
+        {
+            offset = -0.01 0.30 0.0,
+            rotate = 0.0 0.0 0.0,
+        }
+        attachment Bip01_Prop2
+        {
+            offset = 0.0 0.0 0.0,
+            rotate = 180.0 -88.7733 -178.5756,
+        }
+    }
+}

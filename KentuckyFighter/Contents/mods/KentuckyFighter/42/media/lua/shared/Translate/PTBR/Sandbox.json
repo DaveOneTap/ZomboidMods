@@ -1,0 +1,9 @@
+{
+    "Sandbox_KentuckyFighter": "Kentucky Fighter",
+    "Sandbox_KentuckyFighter_WhiteFighterChance": "Zumbis White Fighter (%)",
+    "Sandbox_KentuckyFighter_WhiteFighterChance_tooltip": "Chance, em porcentagem, de cada zumbi ou corpo de zumbi do mapa aparecer vestido de White Fighter (carateca clássico: quimono branco sem mangas com faixa preta, calça de judô branca e faixa vermelha de cabeça). 0 = nunca; 1 = 1 a cada 100 zumbis; 0,1 = 1 a cada 1000.",
+    "Sandbox_KentuckyFighter_RedFighterChance": "Zumbis Red Fighter (%)",
+    "Sandbox_KentuckyFighter_RedFighterChance_tooltip": "Chance, em porcentagem, de cada zumbi ou corpo de zumbi do mapa aparecer vestido de Red Fighter (carateca clássico: quimono vermelho sem mangas com faixa preta e calça de judô vermelha). 0 = nunca; 1 = 1 a cada 100 zumbis; 0,1 = 1 a cada 1000.",
+    "Sandbox_KentuckyFighter_RedCommanderChance": "Zumbis Red Commander (%)",
+    "Sandbox_KentuckyFighter_RedCommanderChance_tooltip": "Chance, em porcentagem, de cada zumbi ou corpo de zumbi do mapa aparecer vestido de Red Commander (comandante imponente: quepe de oficial vermelho, túnica militar vermelha com ombreiras, culote vinho e botas de cano alto com placas). 0 = nunca; 1 = 1 a cada 100 zumbis; 0,1 = 1 a cada 1000."
+}

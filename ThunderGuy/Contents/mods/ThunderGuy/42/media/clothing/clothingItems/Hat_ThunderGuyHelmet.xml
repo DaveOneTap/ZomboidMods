@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>Static\Clothes\M_ThunderGuyHelmet</m_MaleModel>
+	<m_FemaleModel>Static\Clothes\F_ThunderGuyHelmet</m_FemaleModel>
+	<m_GUID>9bb29b9a-e5bd-5ae5-a675-c9333629aaff</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>Group02</m_HatCategory>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>Clothes\ThunderGuy\ThunderGuyHelmet</textureChoices>
+</clothingItem>

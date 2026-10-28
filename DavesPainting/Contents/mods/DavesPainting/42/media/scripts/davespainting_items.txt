@@ -1,0 +1,11 @@
+module Base
+{
+    item Mov_DavesPainting
+    {
+        DisplayCategory = Furniture,
+        ItemType = base:moveable,
+        Icon = default,
+        Weight = 0.5,
+        WorldObjectSprite = davespainting_01_0,
+    }
+}

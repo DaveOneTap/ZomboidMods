@@ -1,0 +1,36 @@
+module Base
+{
+    item Trousers_RedFighterJudoPants
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 0.8,
+        Icon = RedFighterJudoPants,
+        BloodLocation = Trousers,
+        BodyLocation = base:pants,
+        ClothingItem = Trousers_RedFighterJudoPants,
+        FabricType = Cotton,
+        Insulation = 0.4,
+        ScratchDefense = 10,
+        WindResistance = 0.25,
+        WorldStaticModel = Trousers_Ground,
+        Tags = base:ripclothingcotton,
+    }
+
+    item Jacket_RedFighterKimono
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 1.0,
+        Icon = RedFighterKimono,
+        BloodLocation = ShirtNoSleeves,
+        BodyLocation = base:jacket,
+        ClothingItem = Jacket_RedFighterKimono,
+        FabricType = Cotton,
+        Insulation = 0.35,
+        ScratchDefense = 10,
+        WindResistance = 0.25,
+        WorldStaticModel = TShirt_Ground,
+        Tags = base:ripclothingcotton,
+    }
+}

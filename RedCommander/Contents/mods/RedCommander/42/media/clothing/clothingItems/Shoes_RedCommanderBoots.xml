@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_RedCommanderBoots.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_RedCommanderBoots.x</m_FemaleModel>
+	<m_GUID>c82a3eb3-4b93-55dd-a8f5-725490aee958</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>Clothes\RedCommander\RedCommanderBoots</textureChoices>
+</clothingItem>

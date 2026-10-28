@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_RedWitcherCoat.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_RedWitcherCoat.x</m_FemaleModel>
+	<m_GUID>ddfc800f-48ed-5cb3-9043-5ec6349a049d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>3</m_Masks>
+	<m_Masks>5</m_Masks>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>Clothes\RedWitcherVest\RedWitcherCoat</textureChoices>
+</clothingItem>

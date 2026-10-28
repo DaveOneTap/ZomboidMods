@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/Hat_ThunderGuyHelmet.xml</path>
+		<guid>9bb29b9a-e5bd-5ae5-a675-c9333629aaff</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_ThunderGuyVest.xml</path>
+		<guid>a3c9e0f1-6d2b-5b8e-9f41-7c0d2e5b1a64</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Trousers_ThunderGuyPants.xml</path>
+		<guid>5e1d7c2a-8b4f-5d3e-a6c9-2f8e0b7d4c13</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Shoes_ThunderGuyBoots.xml</path>
+		<guid>c84b2e9d-1f6a-5c07-b3e8-94d2a6f1e057</guid>
+	</files>
+</fileGuidTable>

@@ -1,0 +1,10 @@
+version=1
+id=3828503289
+title=Kentucky Fighters
+description=[h1]Kentucky Fighter[/h1]
+description=
+description=[*][b]White Fighter[/b]
+description=[*][b]Red Fighter[/b]
+description=[*][b]Red Commander[/b]
+tags=Build 42;Clothing/Armor
+visibility=friendsOnly

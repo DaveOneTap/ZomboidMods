@@ -1,0 +1,52 @@
+module Base
+{
+    item PunishedVest
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 2.5,
+        Icon = PunishedVest,
+        BiteDefense = 25,
+        ScratchDefense = 45,
+        BloodLocation = LongJacket,
+        BodyLocation = PunishedVest:Overcoat,
+        ClothingItem = PunishedVest_Open,
+        ClothingItemExtra = Base.PunishedVest_Closed,
+        ClothingItemExtraOption = PunishedVestWearClosed,
+        ClothingExtraSubmenu = PunishedVestWearOpen,
+        CombatSpeedModifier = 0.97,
+        FabricType = Leather,
+        Insulation = 0.55,
+        NeckProtectionModifier = 0.5,
+        RunSpeedModifier = 0.94,
+        WaterResistance = 0.45,
+        WindResistance = 0.4,
+        WorldStaticModel = JacketLong_Ground,
+        Tags = base:ripclothingleather,
+    }
+
+    item PunishedVest_Closed
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 2.5,
+        Icon = PunishedVestClosed,
+        BiteDefense = 25,
+        ScratchDefense = 45,
+        BloodLocation = LongJacket,
+        BodyLocation = PunishedVest:Overcoat,
+        ClothingItem = PunishedVest_Closed,
+        ClothingItemExtra = Base.PunishedVest,
+        ClothingItemExtraOption = PunishedVestWearOpen,
+        ClothingExtraSubmenu = PunishedVestWearClosed,
+        CombatSpeedModifier = 0.97,
+        FabricType = Leather,
+        Insulation = 0.75,
+        NeckProtectionModifier = 0.5,
+        RunSpeedModifier = 0.94,
+        WaterResistance = 0.45,
+        WindResistance = 0.65,
+        WorldStaticModel = JacketLong_Ground,
+        Tags = base:ripclothingleather,
+    }
+}

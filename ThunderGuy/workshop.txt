@@ -1,0 +1,8 @@
+version=1
+id=3825924042
+title=ThunderGuy
+description=[h1]ThunderGuy[/h1]
+description=
+description=Full inspired set with 6 pieces
+tags=Build 42;Clothing/Armor
+visibility=unlisted

@@ -1,0 +1,17 @@
+version=1
+title=Red Fighter
+description=[h1]Red Fighter[/h1]
+description=Classic street-fighting karateka cosplay, with full 3D models for male and female characters. Companion to White Fighter.
+description=
+description=[list]
+description=[*][b]Red Kimono[/b]: sleeveless red gi with torn shoulders and a black belt (jacket slot)
+description=[*][b]Red Judo Pants[/b]: loose red cotton pants with an elastic waistband
+description=[*]Items: [b]Jacket_RedFighterKimono[/b] and [b]Trousers_RedFighterJudoPants[/b] (spawn with the Item List Viewer / admin tools)
+description=[/list]
+description=
+description=[h2]PT-BR[/h2]
+description=Cosplay de lutador clássico, com modelos 3D masculino e feminino: quimono vermelho sem mangas com ombros rasgados e faixa preta, e calça de judô vermelha.
+description=
+description=Build 42 only.
+tags=Build 42;Clothing/Armor
+visibility=unlisted

@@ -1,0 +1,41 @@
+module Base
+{
+    item Shirt_RedWitcherCorset
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 0.8,
+        Icon = RedWitcherCorset,
+        BloodLocation = ShirtNoSleeves,
+        BodyLocation = base:shirt,
+        ClothingItem = Shirt_RedWitcherCorset,
+        FabricType = Leather,
+        Insulation = 0.25,
+        ScratchDefense = 10,
+        WindResistance = 0.25,
+        WorldStaticModel = Shirt_Ground,
+        Tags = base:ripclothingleather,
+    }
+
+    item RedWitcherCoat
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 2.0,
+        Icon = RedWitcherCoat,
+        BiteDefense = 20,
+        BloodLocation = LongJacket,
+        BodyLocation = RedWitcherVest:Overcoat,
+        ClothingItem = RedWitcherCoat,
+        CombatSpeedModifier = 0.97,
+        FabricType = Leather,
+        Insulation = 0.65,
+        NeckProtectionModifier = 0.5,
+        RunSpeedModifier = 0.93,
+        ScratchDefense = 40,
+        WaterResistance = 0.45,
+        WindResistance = 0.35,
+        WorldStaticModel = JacketLong_Ground,
+        Tags = base:ripclothingleather,
+    }
+}

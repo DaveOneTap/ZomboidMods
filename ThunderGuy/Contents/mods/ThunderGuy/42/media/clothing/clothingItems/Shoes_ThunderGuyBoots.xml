@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_ThunderGuyBoots.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_ThunderGuyBoots.x</m_FemaleModel>
+	<m_GUID>c84b2e9d-1f6a-5c07-b3e8-94d2a6f1e057</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>Clothes\ThunderGuy\ThunderGuyBoots</textureChoices>
+</clothingItem>

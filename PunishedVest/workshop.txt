@@ -1,0 +1,8 @@
+version=1
+id=3826453629
+title=Punished Vest
+description=[h1]Punished Vest[/h1]
+description=
+description=Worn and Battered
+tags=Build 42;Clothing/Armor
+visibility=public

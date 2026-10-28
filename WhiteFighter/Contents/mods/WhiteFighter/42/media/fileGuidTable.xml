@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/Trousers_WhiteFighterJudoPants.xml</path>
+		<guid>fe70d068-34d5-50cd-8a08-b96cf4b07c8d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Jacket_WhiteFighterKimono.xml</path>
+		<guid>1803ec21-ca50-506d-8fb8-70019c3269a0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Hat_WhiteFighterHeadband.xml</path>
+		<guid>9b6aea87-f925-5d9c-9486-506dbdc9b8ba</guid>
+	</files>
+</fileGuidTable>

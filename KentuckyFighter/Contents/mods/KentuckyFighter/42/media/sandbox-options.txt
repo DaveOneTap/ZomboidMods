@@ -1,0 +1,19 @@
+VERSION = 1,
+
+option KentuckyFighter.WhiteFighterChance
+{
+    type = double, min = 0, max = 100, default = 1,
+    page = KentuckyFighter, translation = KentuckyFighter_WhiteFighterChance,
+}
+
+option KentuckyFighter.RedFighterChance
+{
+    type = double, min = 0, max = 100, default = 1,
+    page = KentuckyFighter, translation = KentuckyFighter_RedFighterChance,
+}
+
+option KentuckyFighter.RedCommanderChance
+{
+    type = double, min = 0, max = 100, default = 1,
+    page = KentuckyFighter, translation = KentuckyFighter_RedCommanderChance,
+}

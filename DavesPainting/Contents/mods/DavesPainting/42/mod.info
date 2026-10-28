@@ -1,0 +1,8 @@
+name=Daves & Daves Modding Company Painting
+id=DavesPainting
+description=Quadro decorativo da Daves & Daves Modding Company. Pendure em paredes norte ou oeste.
+author=Daves & Daves Modding Company
+poster=poster.png
+icon=icon.png
+pack=DavesPainting
+tiledef=davespainting 6137

@@ -1,0 +1,53 @@
+module Base
+{
+    item Trousers_WhiteFighterJudoPants
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 0.8,
+        Icon = WhiteFighterJudoPants,
+        BloodLocation = Trousers,
+        BodyLocation = base:pants,
+        ClothingItem = Trousers_WhiteFighterJudoPants,
+        FabricType = Cotton,
+        Insulation = 0.4,
+        ScratchDefense = 10,
+        WindResistance = 0.25,
+        WorldStaticModel = Trousers_Ground,
+        Tags = base:ripclothingcotton,
+    }
+
+    item Jacket_WhiteFighterKimono
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Weight = 1.0,
+        Icon = WhiteFighterKimono,
+        BloodLocation = ShirtNoSleeves,
+        BodyLocation = base:jacket,
+        ClothingItem = Jacket_WhiteFighterKimono,
+        FabricType = Cotton,
+        Insulation = 0.35,
+        ScratchDefense = 10,
+        WindResistance = 0.25,
+        WorldStaticModel = TShirt_Ground,
+        Tags = base:ripclothingcotton,
+    }
+
+    item Hat_WhiteFighterHeadband
+    {
+        DisplayCategory = Accessory,
+        ItemType = base:clothing,
+        Weight = 0.1,
+        Icon = WhiteFighterHeadband,
+        BloodLocation = Head,
+        BodyLocation = base:hat,
+        CanHaveHoles = false,
+        ChanceToFall = 20,
+        ClothingItem = Hat_WhiteFighterHeadband,
+        FabricType = Cotton,
+        Insulation = 0.05,
+        WindResistance = 0.05,
+        Tags = base:isfirefuel;base:isfiretinder,
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\Bob_RedFighterKimono.x</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\Kate_RedFighterKimono.x</m_FemaleModel>
+	<m_GUID>11c6b4b7-734d-5dda-afe8-f9ee2317b9bf</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>13</m_Masks>
+	<m_MasksFolder>none</m_MasksFolder>
+	<m_UnderlayMasksFolder>media/textures/Clothes/RedFighter/Masks</m_UnderlayMasksFolder>
+	<textureChoices>Clothes\RedFighter\RedFighterKimono</textureChoices>
+</clothingItem>

@@ -1,0 +1,8 @@
+tileDepthTextureAssignments
+{
+    VERSION = 1,
+    davespainting_01_0 = location_entertainment_gallery_01_0,
+    davespainting_01_1 = location_entertainment_gallery_01_0,
+    davespainting_01_2 = location_entertainment_gallery_01_80,
+    davespainting_01_3 = location_entertainment_gallery_01_80,
+}
